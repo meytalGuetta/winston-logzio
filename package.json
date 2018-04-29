@@ -40,7 +40,7 @@
   },
   "main": "./lib/winston-logzio",
   "engines": {
-    "node": ">= 0.8.0"
+    "node": ">= 0.7.0"
   },
   "license": "(Apache-2.0)",
   "scripts": {
